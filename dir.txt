@@ -1,0 +1,16 @@
+pdk
+├── scripts  (probably not necessary)
+└── sky130A
+    ├── libs.ref
+    │   └── sky130_fd_pr  (Primitive lib res/mos/cap/etc)
+    └── libs.tech
+        ├── combined
+        ├── irsim
+        ├── klayout
+        ├── magic
+        ├── netgen
+        ├── ngspice
+        ├── openlane
+        ├── qflow
+        ├── xcircuit
+        └── xschem
