@@ -16,7 +16,7 @@ A subset of SKY130 for analog design.
 ```bash
 
 ~/share/pdk
-├── scripts  (probably not necessary)
+├── scripts 
 └── sky130A
     ├── libs.ref
     │   └── sky130_fd_pr  (Primitive lib res/mos/cap/etc)
