@@ -1,0 +1,5 @@
+## This is a spice initilization file to speed up simulations
+## This needs to placed in the simulation directory 
+## eg ~/.xschem/simulation/.spiceinit
+set ngbehavior=hsa
+set ng_nomodcheck
